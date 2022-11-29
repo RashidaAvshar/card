@@ -187,7 +187,6 @@
 /* icon like */
 
 .like{
-    background-color: rgba(247, 10, 10, 0.247);
     color: white;
     border-radius: 50%;
     position: absolute;
@@ -203,6 +202,7 @@
 
 .like:hover .fa-heart{
     color: red;
+    font-size: 20px;
 }
 
 /* left */
