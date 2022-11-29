@@ -246,3 +246,126 @@
 .home:hover .right{
     visibility: visible;
 }
+
+
+
+
+/* new section */
+
+.instagram{
+    background-color: rgb(219, 232, 232);
+    width: 470px;
+    height: 900px;
+    position: relative;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.header-pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    position: absolute;
+    border: 2px solid rgb(238, 30, 30);
+
+}
+
+.post-name{
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    position: absolute;
+    margin: 30px 70px; 
+}
+
+.circle{
+    position: absolute;
+    right: 1px;
+    margin: 30px;
+    font-size: 5px;
+    letter-spacing: 1px;
+}
+
+.post{
+    width: 470px;
+    height: 587px;
+    margin-top: 68px;
+}
+
+.inslike{
+    font-size: 25px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    letter-spacing: 4px;
+
+}
+
+.fa-bookmark{
+    position: absolute;
+    right: 15px;
+
+}
+
+.like-scoler{
+    font-size: 17px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    font-weight: 550;
+
+}
+
+
+.post-status .name{
+    margin-left: 15px;
+    font-weight: 800;
+    width: 70px;
+    margin-bottom: 20px;
+}
+
+.post-status p{
+    font-size: 14px;
+    position: absolute;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    
+}
+.gray-more{
+    color: rgb(110, 110, 110);
+    
+}
+
+.comment{
+    font-size: 14px;
+    color: rgb(110, 110, 110);
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.insta-date{
+    font-size: 11px;
+    color: rgb(110, 110, 110);
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 15px;
+    text-transform: uppercase;
+
+}
+
+.bottom{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-left: 15px;
+    
+}
+
+.bottom i{
+    font-size: 25px;
+}
+
+.bottom .input{
+    width: 100px;
+}
+
