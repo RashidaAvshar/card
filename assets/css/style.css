@@ -17,6 +17,12 @@
     position: relative;
 }
 
+.home:hover{
+    box-shadow: 20px 22px 43px 4px rgba(123,112,112,0.75);
+-webkit-box-shadow: 20px 22px 43px 4px rgba(123,112,112,0.75);
+-moz-box-shadow: 20px 22px 43px 4px rgba(123,112,112,0.75);
+}
+
 .apart img{
     width: 100%;
     border-top-right-radius: 10px;
@@ -193,6 +199,10 @@
     margin: 5px;
     padding: 3px 2px 3px 2px;
     cursor: pointer;
+}
+
+.like:hover .fa-heart{
+    color: red;
 }
 
 /* left */
